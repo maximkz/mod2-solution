@@ -6,6 +6,7 @@
 
 #heading {
 	text-align: center;
+	padding-top: 30px;
 }
 
 #container{
@@ -18,7 +19,6 @@
 	background-color: grey;
 	border: 1px solid black;
 	padding: 0 0 0 5px;
-	width: 32%;
 	height: 150px;
 	font-family: Helvetica;
 	overflow: auto;
@@ -75,17 +75,17 @@ p {
 	float: right;
 }
 
-/*@media (min-width: 1200px) {
+@media (min-width: 1200px) {
 	#box1 {
-		width: 33%;
+		width: 30%;
 	}
 
 	#box2 {
-		width: 33%;
+		width: 30%;
 	}
 
 	#box3 {
-		width: 33%;
+		width: 30%;
 	}
 }
 
